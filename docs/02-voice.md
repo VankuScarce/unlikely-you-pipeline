@@ -25,3 +25,19 @@ Before spending credits, render the whole episode with a free local voice to che
 ## Cheaper options being considered
 
 The owner asked for a cheaper but still realistic option. Candidates: Chatterbox (free, self-hosted), Google Chirp 3 HD, Inworld, Cartesia. ElevenLabs Flash/Turbo are cheaper per character on paid plans, but the owner wanted more emotion than Flash gives. Do a blind A/B test with the owner before switching anything.
+
+## Contenders checked 26 Nov 2026 (Artificial Analysis blind Speech Arena, Elo / $ per 1M characters)
+
+| Model | Elo | $/1M chars | Notes |
+|---|---|---|---|
+| Eleven v4 / v4 Turbo (ours) | 1340 / 1342 | 80 / 40 | #1, statistically tied |
+| StepAudio 3 TTS (StepFun) | 1310 | 14 | closest challenger |
+| Qwen-Audio-3.1-TTS-Plus (Alibaba) | 1300 | 19 | |
+| Simba 3.5 | 1296 | 6.6 | cheapest near the top |
+| Cartesia Sonic 3.6 | 1295 | 49 | built for real-time agents |
+| Google Gemini 3.8 Flash TTS | 1287 | 16.5 | promptable style; Flash-Lite 1264 at $11 |
+| Fish Audio Drama 3 | 1278 | 15 | best open-weights model (self-host free) |
+| Hume Octave 2 | n/a in top 12 | ~88 | can be directed emotionally by prompt |
+| Kokoro 82M | 1060 | ~0 | free drafts only |
+
+Arena Elo measures naturalness in short clips, not emotion over 10 minutes. Before switching, voice the same 3 test paragraphs (calm, tense, reveal) on 3-4 candidates and do a blind A/B with the owner.
