@@ -1,0 +1,17 @@
+Episode 2 v4 score: custom instrumental cues made with ElevenLabs Eleven Music (eleven_music_v2_5) on the account's paid plan.
+No third-party music, so no CC BY credit line is needed for v4. (Check ElevenLabs' current terms for commercial YouTube use before monetizing.)
+
+c01 cold open      tense, meditative drone
+c02 autopilot      curious, mechanical pulse
+c03 grid goes dark dark, then awe (Milky Way)
+c04 scratching     suspense
+c05 the dog        warm relief
+c06 week one       playful
+c07 month one      ominous (water and fire)
+c08 comforts       bittersweet to warm
+c09 the quiet      lonely piano
+c10 year one       hopeful, nature
+c11 the mission    building, determined
+c12 ending         wistful, open
+
+Laid on the timeline by render/tools/score.py (each cue -23 LUFS, crossfades), mixed by render/tools/mix5.sh.

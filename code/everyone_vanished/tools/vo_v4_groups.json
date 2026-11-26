@@ -1,0 +1,140 @@
+{
+ "g01": {
+  "ids": [
+   "s01",
+   "s02",
+   "s03",
+   "s04",
+   "s05",
+   "s06",
+   "s07"
+  ],
+  "text": "[softly] [nervous] You wake up at 7:02 on a Monday... and something is wrong. [pause] It takes you a second to work out what. [pause] [whispers] It's quiet. [pause] No traffic. No neighbour's TV. No leaf blower. [pause] [nervous] Your phone has forty-one unread messages... and every single one stopped at exactly 3:17 AM. [pause] [cautiously] You walk outside. A car is stopped in the middle of the road, engine running, wipers going. [pause] [whispers] Nobody inside. [pause] [slowly] Nobody anywhere. Every human on Earth is gone. Eight billion people. [pause] [softly] Except you. [pause] [whispers] Except... you're not completely alone. [nervous] Something just knocked that bin over. Something that was still here at 3:17. [pause] [whispers] And whatever it is... it sounds hungry. [pause] [curious] So let's find out what disappears first, what you can still save, and what you'd do with a whole world to yourself. [dramatically] The clock starts now.",
+  "plain": "You wake up at 7:02 on a Monday, and something is wrong. It takes you a second to work out what.\n\nIt's quiet. No traffic. No neighbour's TV. No leaf blower.\n\nYour phone has forty-one unread messages, and every single one stopped at exactly 3:17 AM.\n\nYou walk outside. A car is stopped in the middle of the road, engine running, wipers going. Nobody inside.\n\nNobody anywhere. Every human on Earth is gone. Eight billion people. Except you.\n\nExcept... you're not completely alone. Something just knocked that bin over. Something that was still here at 3:17. And whatever it is, it sounds hungry.\n\nSo let's find out what disappears first, what you can still save, and what you'd do with a whole world to yourself. The clock starts now."
+ },
+ "g02": {
+  "ids": [
+   "s08",
+   "s09",
+   "s10",
+   "s11",
+   "s12"
+  ],
+  "text": "[curious] Here's the first surprise. The world doesn't stop when people do. It keeps running on autopilot. [pause] [calmly] Traffic lights keep changing for nobody. Escalators keep rolling. [sarcastic] Somewhere, a dishwasher finishes its cycle and beeps at an empty kitchen. [pause] [calmly] That car on your street will idle until its tank runs dry. Ovens left on, fridges humming, servers blinking in data centres. [pause] Everything is still working... [softly] for now. [pause] [calmly] But almost every machine we own was built with one hidden assumption: a person will come and check on it. Someone refuels it. Someone resets it. Someone notices the warning light. [pause] [softly] Today, nobody is coming. [pause] So one by one, the machines start switching off. [dramatically] And the biggest one goes first.",
+  "plain": "Here's the first surprise. The world doesn't stop when people do. It keeps running on autopilot.\n\nTraffic lights keep changing for nobody. Escalators keep rolling. Somewhere, a dishwasher finishes its cycle and beeps at an empty kitchen.\n\nThat car on your street will idle until its tank runs dry. Ovens left on, fridges humming, servers blinking in data centres. Everything is still working, for now.\n\nBut almost every machine we own was built with one hidden assumption: a person will come and check on it. Someone refuels it. Someone resets it. Someone notices the warning light.\n\nToday, nobody is coming. So one by one, the machines start switching off. And the biggest one goes first."
+ },
+ "g03": {
+  "ids": [
+   "s13",
+   "s14",
+   "s15",
+   "s16"
+  ],
+  "text": "[curious] Power plants are the biggest babysitting job on the planet. [pause] [calmly] Coal and gas plants need fuel delivered and people watching the controls around the clock. The grid has to balance supply and demand every second. When it drifts too far, safety systems cut sections off to protect the equipment. [pause] [calmly] With no one at the controls, that happens again... and again. [softly] Experts generally expect most of the grid to go dark within hours to a couple of days. [pause] [calmly] Some power hangs on longer. Hydro dams can keep spinning for a while. And the solar panels on a house, with a battery in the garage, keep making power for years. That house might end up being the last lit window in your city. [pause] [softly] Remember it. It's going to matter.",
+  "plain": "Power plants are the biggest babysitting job on the planet.\n\nCoal and gas plants need fuel delivered and people watching the controls around the clock. The grid has to balance supply and demand every second. When it drifts too far, safety systems cut sections off to protect the equipment.\n\nWith no one at the controls, that happens again and again. Experts generally expect most of the grid to go dark within hours to a couple of days.\n\nSome power hangs on longer. Hydro dams can keep spinning for a while. And the solar panels on a house, with a battery in the garage, keep making power for years. That house might end up being the last lit window in your city. Remember it. It's going to matter."
+ },
+ "g04": {
+  "ids": [
+   "s17",
+   "s18"
+  ],
+  "text": "[cautiously] Nuclear plants? They're designed to shut themselves down automatically when the grid fails, and backup generators keep the cooling running for as long as their fuel lasts. After that, it's a slow problem but a real one. [sarcastic] If you live near one, this is a great week for a road trip. [pause] [softly] Then, on night two, you see something almost no one in a big city has seen in about a hundred years. [pause] [whispers] The Milky Way, right above downtown. [softly] Because every light on Earth went out at the same time.",
+  "plain": "Nuclear plants? They're designed to shut themselves down automatically when the grid fails, and backup generators keep the cooling running for as long as their fuel lasts. After that, it's a slow problem but a real one. If you live near one, this is a great week for a road trip.\n\nThen, on night two, you see something almost no one in a big city has seen in about a hundred years. The Milky Way, right above downtown. Because every light on Earth went out at the same time."
+ },
+ "g05": {
+  "ids": [
+   "s19",
+   "s20",
+   "s21",
+   "n01"
+  ],
+  "text": "[whispers] And then you hear it. [pause] Scratching. At your front door. [nervous] Remember that bin? Whatever knocked it over... has found you. [pause] [nervous] [slowly] You open the door. [pause] And there it is. [pause] [surprised] A very hungry dog, [laughs softly] very happy to see a human. [pause] [dramatically] Because here's the twist. At 3:17 AM, every person on Earth vanished. [slowly] The animals didn't. Not one. [pause] [calmly] Around the world, hundreds of millions of dogs, cats and cows just woke up in a world without us. [warmly] But you only need one of them. You call him Scraps. [pause] [softly] He's not a replacement for eight billion people. He's just the only one who still looks at you when you talk.",
+  "plain": "And then you hear it. Scratching. At your front door. Remember that bin? Whatever knocked it over has found you.\n\nYou open the door. And there it is.\n\nA very hungry dog, very happy to see a human. Because here's the twist. At 3:17 AM, every person on Earth vanished. The animals didn't. Not one.\n\nAround the world, hundreds of millions of dogs, cats and cows just woke up in a world without us. But you only need one of them. You call him Scraps. He's not a replacement for eight billion people. He's just the only one who still looks at you when you talk."
+ },
+ "g06": {
+  "ids": [
+   "s30",
+   "n02",
+   "s31"
+  ],
+  "text": "[warmly] Let's check on you. [curious] Because you have a problem nobody in history has ever had. [pause] Everything is free... [sarcastic] and nothing works. [pause] [calmly] First thing to go: the internet. Cell towers run on backup batteries for a few hours, some on generators for a few days. [sarcastic] Then your phone becomes a very nice flashlight... with no one to call. [pause] [calmly] Water first. Your tap keeps running for a while, because water towers push water down with gravity. But the pumps that refill them need power. In most towns, pressure starts dropping within days. So on day one, fill every bathtub you can find. [warmly] That's a real emergency trick, by the way.",
+  "plain": "Let's check on you. Because you have a problem nobody in history has ever had. Everything is free, and nothing works.\n\nFirst thing to go: the internet. Cell towers run on backup batteries for a few hours, some on generators for a few days. Then your phone becomes a very nice flashlight with no one to call.\n\nWater first. Your tap keeps running for a while, because water towers push water down with gravity. But the pumps that refill them need power. In most towns, pressure starts dropping within days. So on day one, fill every bathtub you can find. That's a real emergency trick, by the way."
+ },
+ "g07": {
+  "ids": [
+   "s32",
+   "n03",
+   "s33",
+   "s34"
+  ],
+  "text": "[calmly] Food is easy, for now. The fresh food in supermarkets rots within a week, and the freezers are already thawing. But canned food lasts for years. Rice, beans, peanut butter. Properly sealed honey basically never goes off. [warmly] You won't starve this year. [pause] [happy] Small win, though. The supermarket freezers are thawing, so on day two you eat a whole tub of ice cream for breakfast. [laughs] Nobody can stop you. [warmly] It might be the best meal anyone eats for the next hundred years. [pause] [softly] What actually threatens you is the boring stuff. An infected cut. A bad tooth. A fall down the stairs with nobody to call. [pause] There are no doctors anymore. [slowly] There's you. [pause] [calmly] So the smartest move of week one isn't grabbing a sports car. It's raiding a pharmacy for antibiotics and a first-aid book. [chuckles] Then grabbing the sports car.",
+  "plain": "Food is easy, for now. The fresh food in supermarkets rots within a week, and the freezers are already thawing. But canned food lasts for years. Rice, beans, peanut butter. Properly sealed honey basically never goes off. You won't starve this year.\n\nSmall win, though. The supermarket freezers are thawing, so on day two you eat a whole tub of ice cream for breakfast. Nobody can stop you. It might be the best meal anyone eats for the next hundred years.\n\nWhat actually threatens you is the boring stuff. An infected cut. A bad tooth. A fall down the stairs with nobody to call. There are no doctors anymore. There's you.\n\nSo the smartest move of week one isn't grabbing a sports car. It's raiding a pharmacy for antibiotics and a first-aid book. Then grabbing the sports car."
+ },
+ "g08": {
+  "ids": [
+   "s36",
+   "s37",
+   "s38"
+  ],
+  "text": "[dramatically] One month in, the cities start falling apart. [pause] Not because of monsters. Because of water... and fire. [pause] [calmly] A subway is basically an underground river held back by pumps. New York's subway has to pump out around thirteen million gallons of water on a normal dry day. Without power, researchers have estimated parts of the system could flood in about a day and a half. [softly] Underground, the city is already turning into a lake. [pause] [calmly] Then there's fire. A lightning strike. A gas leak. A toaster someone left on at 3:17 AM. Normally a fire crew shows up within minutes. [pause] [softly] Now nobody comes. In a suburb full of wooden houses, one fire can jump from roof to roof for days.",
+  "plain": "One month in, the cities start falling apart. Not because of monsters. Because of water and fire.\n\nA subway is basically an underground river held back by pumps. New York's subway has to pump out around thirteen million gallons of water on a normal dry day. Without power, researchers have estimated parts of the system could flood in about a day and a half. Underground, the city is already turning into a lake.\n\nThen there's fire. A lightning strike. A gas leak. A toaster someone left on at 3:17 AM. Normally a fire crew shows up within minutes. Now nobody comes. In a suburb full of wooden houses, one fire can jump from roof to roof for days."
+ },
+ "g09": {
+  "ids": [
+   "n04",
+   "n05",
+   "n06"
+  ],
+  "text": "[tired] And at home, the comforts go one by one. Hot showers last only as long as there's pressure left in the gas pipes. [sighs] After that, it's a bucket of water you warmed up on a camping stove. [pause] [calmly] Gas stations still have thousands of litres of fuel in their underground tanks, but the pumps need power. So you learn to siphon fuel with a hose. [sarcastic] It tastes exactly as bad as you'd think. [pause] [warmly] But then you remember the house with the solar panels. You plug in a projector, put on a movie, and for two hours... it's a normal Friday night. [chuckles] Scraps hates the explosions.",
+  "plain": "And at home, the comforts go one by one. Hot showers last only as long as there's pressure left in the gas pipes. After that, it's a bucket of water you warmed up on a camping stove.\n\nGas stations still have thousands of litres of fuel in their underground tanks, but the pumps need power. So you learn to siphon fuel with a hose. It tastes exactly as bad as you'd think.\n\nBut then you remember the house with the solar panels. You plug in a projector, put on a movie, and for two hours it's a normal Friday night. Scraps hates the explosions."
+ },
+ "g10": {
+  "ids": [
+   "n07",
+   "n08",
+   "n09",
+   "n10"
+  ],
+  "text": "[softly] Here's the part survival guides never mention. Around month four, the danger fades, and something worse moves in. [pause] [slowly] Boredom. [pause] [tired] Every day is the same day. No news, no work, no group chat, nobody to tell when something funny happens. [softly] People who spend the long winter at Antarctic research stations describe the same thing: time blurs, sleep drifts, and small problems start to feel huge. [pause] [calmly] What gets them through is a routine and a reason to get up. So you build one. Wake up, feed Scraps, check the panels, read one book from the library. [warmly] You start talking to him out loud. [chuckles] He's a good listener. [pause] [tired] But a routine isn't a reason. [pause] [softly] And one night, on the porch, you finally ask the question you've been avoiding. [long pause] [sad] [whispers] What is all of this for?",
+  "plain": "Here's the part survival guides never mention. Around month four, the danger fades, and something worse moves in. Boredom.\n\nEvery day is the same day. No news, no work, no group chat, nobody to tell when something funny happens. People who spend the long winter at Antarctic research stations describe the same thing: time blurs, sleep drifts, and small problems start to feel huge.\n\nWhat gets them through is a routine and a reason to get up. So you build one. Wake up, feed Scraps, check the panels, read one book from the library. You start talking to him out loud. He's a good listener.\n\nBut a routine isn't a reason. And one night, on the porch, you finally ask the question you've been avoiding. What is all of this for?"
+ },
+ "g11": {
+  "ids": [
+   "s41",
+   "s42",
+   "s43"
+  ],
+  "text": "[softly] One year in, plants are winning. [pause] [calmly] Every crack in every sidewalk has something growing in it. Each winter, water gets into those cracks, freezes, expands, and pushes them wider. [softly] That's how a road starts to die. [pause] [sarcastic] Your sports car? Its battery has been dead for months. And ordinary gasoline goes stale in months to about a year. So by now that car is a very expensive chair. [warmly] A bicycle, on the other hand, never runs out of fuel.",
+  "plain": "One year in, plants are winning.\n\nEvery crack in every sidewalk has something growing in it. Each winter, water gets into those cracks, freezes, expands, and pushes them wider. That's how a road starts to die.\n\nYour sports car? Its battery has been dead for months. And ordinary gasoline goes stale in months to about a year. So by now that car is a very expensive chair. A bicycle, on the other hand, never runs out of fuel."
+ },
+ "g12": {
+  "ids": [
+   "n11",
+   "n12",
+   "n13",
+   "n14"
+  ],
+  "text": "[surprised] Your answer surprises you. [pause] You're not going to just survive. [dramatically] You're going to try to bring people back. [pause] [softly] You're one man. There's nobody left to start a family with. [pause] So you do what humans have always done when nature says no. [curious] You go and ask science. [pause] [curious] The libraries are open, the university labs are empty, and you've got solar power and all the time in the world. [pause] And here's what you find. [pause] [excited] In 2023, a team in Japan took skin cells from male mice, turned them into eggs, and got baby mice with two fathers. In 2025, scientists in China went further: mice with two dads that grew up into adults. [softly] Very few of them made it. [pause] But it worked.",
+  "plain": "Your answer surprises you. You're not going to just survive. You're going to try to bring people back.\n\nYou're one man. There's nobody left to start a family with. So you do what humans have always done when nature says no. You go and ask science.\n\nThe libraries are open, the university labs are empty, and you've got solar power and all the time in the world. And here's what you find.\n\nIn 2023, a team in Japan took skin cells from male mice, turned them into eggs, and got baby mice with two fathers. In 2025, scientists in China went further: mice with two dads that grew up into adults. Very few of them made it. But it worked."
+ },
+ "g13": {
+  "ids": [
+   "n15",
+   "n16",
+   "n17",
+   "n18"
+  ],
+  "text": "[softly] Then there are the freezers. Fertility clinics store frozen embryos. Possibly more than a million in the US alone. Each one is a tiny future person whose parents are gone. That's the variety one man could never give a new humanity on his own. [pause] [nervous] But they're kept in liquid nitrogen, and with nobody topping up the tanks, the nitrogen slowly boils away. [pause] [slowly] That gives you a deadline. [pause] [dramatically] And the biggest problem of all: a baby needs a womb. [curious] In 2017, doctors in Philadelphia kept premature lambs growing for four weeks inside a fluid-filled plastic bag. In 2021, scientists in Israel grew mouse embryos outside the body for about six days. [pause] [softly] Nobody has ever grown a human that way. Not from start to finish. [pause] [dramatically] So that's your mission. Make the eggs. Save the embryos. Build a womb. [pause] [chuckles] With a library card, a generator... and a dog.",
+  "plain": "Then there are the freezers. Fertility clinics store frozen embryos. Possibly more than a million in the US alone. Each one is a tiny future person whose parents are gone. That's the variety one man could never give a new humanity on his own.\n\nBut they're kept in liquid nitrogen, and with nobody topping up the tanks, the nitrogen slowly boils away. That gives you a deadline.\n\nAnd the biggest problem of all: a baby needs a womb. In 2017, doctors in Philadelphia kept premature lambs growing for four weeks inside a fluid-filled plastic bag. In 2021, scientists in Israel grew mouse embryos outside the body for about six days. Nobody has ever grown a human that way. Not from start to finish.\n\nSo that's your mission. Make the eggs. Save the embryos. Build a womb. With a library card, a generator and a dog."
+ },
+ "g14": {
+  "ids": [
+   "n19",
+   "n20",
+   "n21",
+   "n22"
+  ],
+  "text": "[slowly] [softly] Years pass. The roads disappear under the trees. The city goes quiet for good. [pause] [softly] And on one hill, in a university building wrapped in vines, a single window is still lit. [pause] [whispers] Inside, a machine hums. Something in it might be growing. [long pause] Or maybe it isn't. [pause] [softly] Did you do it? [pause] Could one person really restart the human race? [slowly] That's the one question this world never got to answer. [pause] [warmly] So you tell me. Would you even try? Tell me in the comments. [chuckles] And if you want the version where the animals vanish too... that one's next.",
+  "plain": "Years pass. The roads disappear under the trees. The city goes quiet for good.\n\nAnd on one hill, in a university building wrapped in vines, a single window is still lit. Inside, a machine hums. Something in it might be growing. Or maybe it isn't.\n\nDid you do it? Could one person really restart the human race? That's the one question this world never got to answer.\n\nSo you tell me. Would you even try? Tell me in the comments. And if you want the version where the animals vanish too, that one's next."
+ }
+}

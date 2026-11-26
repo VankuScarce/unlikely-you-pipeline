@@ -1,0 +1,10 @@
+{"fps": 24, "scenes": [
+  {"type": "odds_board", "dur": 3, "p": {"stars": 1, "value": "00:00:40", "heading": "ONE STAR: SOMEBODY NOTICED"}},
+  {"type": "camera_map", "dur": 6, "p": {"cameras": 45, "caption": "Plate cameras: tens of thousands in the US (FACT)"}},
+  {"type": "camera_map", "dur": 4, "p": {"cameras": 45, "route": true, "caption": "Every camera: seen here, at this second"}},
+  {"type": "ozzie_explains", "dur": 5, "p": {"lines": ["Stars don't go up", "because you did", "something dramatic.", "A system noticed you."]}},
+  {"type": "thermal", "dur": 4, "p": {"callout": "TARGET NORTHBOUND, ENTERING GARAGE"}},
+  {"type": "stat_card", "dur": 3, "p": {"value": 130, "suffix": " MPH", "caption": "Typical patrol helicopter cruise (FACT)"}},
+  {"type": "exits_closing", "dur": 5, "p": {"caption": "Four stars: the exits close"}},
+  {"type": "stat_card", "dur": 3, "p": {"value": 7, "suffix": " DAYS", "caption": "Ozzie's best-case guess", "bg": "orange", "estimate": true}}
+]}
