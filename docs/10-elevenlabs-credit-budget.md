@@ -28,7 +28,7 @@ Before the music library exists, building it once costs about 10 moods Ã— 50 s Ã
 2. **Test on short lines only** (1-2 lines, under 300 characters) for pronunciation or a new setting. Never test by voicing a whole section.
 3. **Plain text, no audio tags.** Tagged takes were rejected and cost ~10,800 credits for nothing.
 4. **Voice once, in section-sized takes.** Fix a single bad word by re-voicing that sentence only, then splice it in, not the whole take.
-5. **Draft with a free voice** (Kokoro/Chatterbox) for timing and the draft render.
+5. **Draft with a free voice** (Kokoro) for timing and the draft render.
 6. **One generation per music cue.** Don't re-roll for small taste differences; adjust in the mix instead.
 7. **Reuse music cues** across episodes (mood library). Only generate moods we don't have.
 8. **Shorts and Parts never need new audio.** They're cut from the long video's mix.
@@ -39,5 +39,5 @@ Before the music library exists, building it once costs about 10 moods Ã— 50 s Ã
 ## Cheaper voice options (to test, not adopted)
 
 - ElevenLabs **Flash/Turbo** are listed at ~0.5 credit/char on paid plans (our connector billed 1/char in tests, so verify with a short line and the usage counter). Less emotion than v4.
-- **Chatterbox** (free, open source) for drafts, possibly finals if a blind test passes.
+- **Chatterbox**: rejected by the owner after a listening test (26 Nov 2026).
 - Google Chirp 3 HD, Inworld, Cartesia: need accounts; compare in a blind A/B with the owner.

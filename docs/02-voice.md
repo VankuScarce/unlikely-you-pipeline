@@ -20,11 +20,11 @@ The renderer times every shot from the length of its VO file, so the picture alw
 
 ## Free placeholder voice for drafts
 
-Before spending credits, render the whole episode with a free local voice to check timing and pacing: `code/everyone_vanished/scratch_vo.py` (Kokoro, `am_michael`). Chatterbox (free, open source) is the better free option and was tested as a possible cheaper tier; samples exist in the owner's project files. Use these for drafts only. The published voice is Eric.
+Before spending credits, render the whole episode with a free local voice to check timing and pacing: `code/everyone_vanished/scratch_vo.py` (Kokoro, `am_michael`). Use these for timing drafts only. The published voice is Eric. Chatterbox was tested on 26 Nov 2026 against Eric and **rejected by the owner** (wrong tone, weak emotion, poor pacing), so it is not a candidate for final narration.
 
 ## Cheaper options being considered
 
-The owner asked for a cheaper but still realistic option. Candidates: Chatterbox (free, self-hosted), Google Chirp 3 HD, Inworld, Cartesia. ElevenLabs Flash/Turbo are cheaper per character on paid plans, but the owner wanted more emotion than Flash gives. Do a blind A/B test with the owner before switching anything.
+The owner asked for a cheaper but still realistic option. Candidates: Inworld TTS-2, Google Gemini Flash TTS, Cartesia, StepAudio, Qwen. Rejected: Chatterbox (owner listened, 26 Nov 2026). Hume Octave shut down on 13 Nov 2026. ElevenLabs Flash/Turbo are cheaper per character on paid plans, but the owner wanted more emotion than Flash gives. Do a blind A/B test with the owner before switching anything.
 
 ## Contenders checked 26 Nov 2026 (Artificial Analysis blind Speech Arena, Elo / $ per 1M characters)
 
